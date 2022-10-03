@@ -7,6 +7,7 @@ public class rasha1 {
 		
 		System.out.println("Pasha");
 
+		System.out.println("Samiha");
 	}
 
 }
